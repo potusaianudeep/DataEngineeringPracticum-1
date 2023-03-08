@@ -37,7 +37,7 @@ Plotted the data of all countries on map with bubble size based on average value
 Added functionalities to filter the data by year, subsector/ product/ vehicle type as applicable for the dataset.
 We can also find the min and max countries with corresponding values, sector and measures.
 
-# Sample Picture from PowerBI Report: 
+ 
 
 
 
